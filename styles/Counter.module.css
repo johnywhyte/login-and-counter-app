@@ -1,0 +1,48 @@
+.countcard {
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+}
+
+.mainsection {
+  margin-top: 100px;
+}
+
+.headerbtn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+
+.countcard label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.countcard input {
+  display: block;
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  font-size: 18px;
+}
+
+.inputarea {
+  display: flex;
+  justify-content: center;
+
+}
+
+.inputbox {
+    margin-top: 50px;
+  }
+  
+
+.count {
+  margin: 10px;
+  font-size: 30px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 20px;
+}
