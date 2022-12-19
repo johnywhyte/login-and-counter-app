@@ -14,5 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Kindly find the login credentials below
 
-```username: adminuser,
-```password: password,
+username: adminuser,
+password: password,
